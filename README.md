@@ -22,14 +22,18 @@
 
 ## Earthquake Locations and Magnitude:
 
-![alt text](https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/EarthquakeMap.png 
-"Earthquake Locations") 
+Earthquake Locations           |  Tectonic Plates
+:-------------------------:|:-------------------------:
+![](https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/EarthquakeMap.png "Earthquake Locations") | <img src="https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/TectonicPlates.png" width="432" height="582">
 
 
 ## Earthquake Locations and Magnitude in April 2015:
 
-![alt text](https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/EarthquakeMap2015.png 
-"Earthquake Locations") 
+
+Earthquake Locations           |  Tectonic Plates
+:-------------------------:|:-------------------------:
+![](https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/EarthquakeMap2015.png "Earthquake Locations") | <img src="https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/TectonicPlates.png" width="432" height="582">
+
 
 # Analysis:
 
