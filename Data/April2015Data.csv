@@ -1,0 +1,38 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2015-04-28T15:19:08.870Z,39.5011667,-122.9486667,11.239,3.1,ml,76,33,0.01441,0.09,nc,nc72436930,2017-02-07T17:13:18.830Z,"34km NE of Redwood Valley, California",earthquake,0.1,0.22,0.214,28,reviewed,nc,nc
+2015-04-28T14:02:21.610Z,39.4993333,-122.9483333,10.421,2.79,md,44,31,0.01441,0.08,nc,nc72436905,2017-02-07T17:12:41.710Z,"34km NE of Redwood Valley, California",earthquake,0.14,0.35,0.133,50,reviewed,nc,nc
+2015-04-28T08:29:31.170Z,39.499,-122.9456667,10.591,2.61,md,41,31,0.01171,0.09,nc,nc72436775,2017-02-07T17:09:23.830Z,"34km NE of Redwood Valley, California",earthquake,0.14,0.33,0.209,59,reviewed,nc,nc
+2015-04-28T00:53:03.380Z,39.2703333,-122.7556667,11.836,3.23,ml,97,30,0.1252,0.14,nc,nc72436530,2017-02-07T17:04:18.500Z,"17km NE of Upper Lake, California",earthquake,0.11,0.32,0.173,39,reviewed,nc,nc
+2015-04-24T17:50:32.000Z,51.479,-130.961,18.5,4.1,mwr,,,,2.04,us,us200028x5,2015-07-03T00:23:38.040Z,"210km WSW of Bella Bella, Canada",earthquake,10.5,5.4,0.098,10,reviewed,pgc,us
+2015-04-24T15:56:18.330Z,51.2737,-130.9946,10,4.1,ml,,189,2.01,1.33,us,us20002afk,2015-07-03T00:23:38.040Z,"222km WSW of Bella Bella, Canada",earthquake,6.6,2,0.128,8,reviewed,us,us
+2015-04-24T14:45:36.560Z,45.9799,-129.8563,10,4.2,mb,,226,4.355,1.22,us,us20002afj,2015-07-03T00:23:38.040Z,"Off the coast of Oregon",earthquake,11.7,2,0.303,3,reviewed,us,us
+2015-04-24T14:09:32.480Z,51.6381,-130.894,21.37,4.6,mb,,165,1.504,1.24,us,us20002afg,2015-07-03T00:23:38.040Z,"199km WSW of Bella Bella, Canada",earthquake,2.4,6.7,0.244,5,reviewed,us,us
+2015-04-24T13:56:15.180Z,51.6148,-130.7714,8,6.2,mww,,69,1.743,1.24,us,us200028ue,2016-11-10T21:47:13.605Z,"192km WSW of Bella Bella, Canada",earthquake,4.6,1.8,,,reviewed,us,us
+2015-04-24T11:11:15.100Z,46.2612,-129.5507,10,3.8,mb,,203,4.06,1.19,us,us200028w7,2015-07-03T00:23:38.040Z,"Off the coast of Washington",earthquake,5.9,2,0.161,10,reviewed,us,us
+2015-04-24T06:32:05.920Z,46.1391,-129.6165,10,3.7,mb,,179,4.143,1.1,us,us200028rt,2015-07-03T00:23:38.040Z,"Off the coast of Oregon",earthquake,6.8,2,0.103,24,reviewed,us,us
+2015-04-24T06:22:53.300Z,46.0946,-129.4417,10,3.4,ml,,221,4.045,0.76,us,us20002afd,2015-07-03T00:23:38.040Z,"Off the coast of Oregon",earthquake,5.1,2,0.105,12,reviewed,us,us
+2015-04-24T06:14:16.780Z,46.7381667,-126.9301667,6.638,2.59,md,8,340,2.213,1.91,uw,uw60991632,2016-07-22T19:48:53.310Z,"off the coast of Washington",earthquake,44.65,31.61,0.031,3,reviewed,uw,uw
+2015-04-24T06:13:43.610Z,45.9446,-129.9223,10,3.5,ml,,206,4.411,0.78,us,us20002afr,2015-07-03T00:23:38.040Z,"Off the coast of Oregon",earthquake,7.5,1.9,0.128,8,reviewed,us,us
+2015-04-24T02:14:14.450Z,40.3373,-127.178,18,3,ml,,325,2.212,0.89,us,us200028q7,2017-02-07T16:21:01.200Z,"248km W of Ferndale, California",earthquake,12,2,0.161,6,reviewed,nc,nc
+2015-04-24T01:34:55.550Z,40.4556,-127.1509,10,5.4,mww,,50,2.29,1.26,us,us200028pe,2017-02-07T16:20:26.290Z,"245km W of Ferndale, California",earthquake,7,1.8,,,reviewed,us,us
+2015-04-23T03:23:32.460Z,43.2297,-126.8732,10,3,ml,,266,1.895,0.81,us,us20002a5w,2015-07-03T00:23:36.040Z,"200km W of Bandon, Oregon",earthquake,3.5,2,0.074,24,reviewed,us,us
+2015-04-20T04:40:06.160Z,40.305,-124.5601667,18.407,2.95,ml,26,265,0.2117,0.19,nc,nc72431345,2017-02-07T15:27:31.475Z,"39km SW of Ferndale, California",earthquake,1.46,0.42,0.274,22,reviewed,nc,nc
+2015-04-18T13:50:09.210Z,42.566,-124.4806667,20.612,2.76,ml,5,228,0.3245,0.15,uw,uw60109408,2016-07-22T19:48:41.570Z,"18km NNW of Gold Beach, Oregon",earthquake,0.67,0.83,0.091,29,reviewed,uw,uw
+2015-04-18T13:49:52.060Z,42.5725,-124.4371667,19.312,2.74,ml,14,217,0.309,0.36,uw,uw60988592,2016-07-22T19:48:41.300Z,"18km N of Gold Beach, Oregon",earthquake,0.98,1,0.107,20,reviewed,uw,uw
+2015-04-15T10:14:48.850Z,46.3451667,-122.2475,11.078,2.74,ml,47,38,0.02181,0.17,uw,uw60999111,2016-07-22T19:48:31.120Z,"23km S of Morton, Washington",earthquake,0.25,0.44,0.149,124,reviewed,uw,uw
+2015-04-15T07:43:15.120Z,40.2905,-124.4565,19.281,2.59,md,22,255,0.1351,0.12,nc,nc72428785,2017-02-07T14:44:26.367Z,"35km SSW of Ferndale, California",earthquake,0.68,0.31,0.122,40,reviewed,nc,nc
+2015-04-12T22:45:04.330Z,43.3684,-126.4698,10,4,mb,,227,1.64,0.78,us,us20002601,2015-06-22T23:18:58.040Z,"169km W of Bandon, Oregon",earthquake,4.1,2,0.232,5,reviewed,us,us
+2015-04-12T21:28:25.740Z,40.323,-124.6521667,12.13,2.59,md,38,240,0.2811,0.1,nc,nc72430666,2017-02-07T14:27:14.033Z,"43km SW of Ferndale, California",earthquake,0.68,0.38,0.178,30,reviewed,nc,nc
+2015-04-12T10:43:53.790Z,40.4333333,-125.9201667,10.046,2.91,md,18,302,1.253,0.27,nc,nc72430431,2017-02-07T14:24:08.926Z,"141km W of Ferndale, California",earthquake,11.52,11.9,0.125,27,reviewed,nc,nc
+2015-04-11T10:36:36.890Z,40.239,-123.6505,28.625,2.53,md,27,45,0.05766,0.1,nc,nc72429981,2017-02-07T14:17:11.010Z,"19km NE of Redway, California",earthquake,0.26,0.76,0.214,47,reviewed,nc,nc
+2015-04-11T05:44:48.740Z,43.3904,-127.0443,10,4.2,mwr,,182,2.05,1.09,us,us200025te,2015-06-22T23:18:56.040Z,"216km W of Bandon, Oregon",earthquake,7.7,2,0.057,30,reviewed,us,us
+2015-04-10T18:59:38.760Z,40.418,-126.1568,19.88,4.7,mwr,,199,1.532,0.86,us,us200025qi,2017-02-07T14:11:59.730Z,"161km W of Ferndale, California",earthquake,5.6,5.5,0.065,23,reviewed,us,us
+2015-04-10T07:04:24.330Z,41.7687,-126.5961,10,2.5,ml,,240,1.821,0.87,us,us200025jr,2015-06-22T23:18:55.040Z,"193km WSW of Gold Beach, Oregon",earthquake,9.4,2,0.059,38,reviewed,us,us
+2015-04-09T08:35:36.650Z,40.4111667,-124.6175,19.919,2.55,md,36,234,0.2694,0.13,nc,nc72428841,2017-02-07T13:58:51.450Z,"35km WSW of Ferndale, California",earthquake,0.85,0.46,0.263,36,reviewed,nc,nc
+2015-04-08T08:25:20.130Z,40.4305,-125.161,23.245,3.06,ml,35,259,0.6252,0.28,nc,nc72428276,2017-02-07T13:50:20.284Z,"77km WSW of Ferndale, California",earthquake,2.39,15.41,0.132,16,reviewed,nc,nc
+2015-04-07T14:54:43.870Z,43.166,-126.3541,10,4.5,mb,,161,2.558,0.93,us,us10001vcb,2016-07-22T19:48:14.150Z,"158km W of Bandon, Oregon",earthquake,5,2,0.091,39,reviewed,us,us
+2015-04-05T10:13:41.100Z,45.872,-126.411,4.981,2.61,md,11,312,2.067,1.61,uw,uw60993656,2016-07-22T19:48:08.470Z,"off the coast of Oregon",earthquake,92.27,31.61,0.012,3,reviewed,uw,uw
+2015-04-04T03:26:08.260Z,44.6186,-129.4721,10,3.9,mb,,286,4.111,0.75,us,us10001tu9,2015-06-16T01:00:26.040Z,"Off the coast of Oregon",earthquake,6.9,2,0.163,10,reviewed,us,us
+2015-04-02T19:07:30.110Z,44.0919,-130.4487,10,3.6,ml,,293,4.613,0.89,us,us10001tb6,2015-06-16T01:00:24.040Z,"Off the coast of Oregon",earthquake,14.4,2,0.181,4,reviewed,us,us
+2015-04-02T17:53:25.820Z,44.117,-126.9476667,4.891,2.72,md,20,265,2.233,8.59,uw,uw60991891,2016-07-22T19:48:01.020Z,"off the coast of Oregon",earthquake,70.05,31.61,0.085,4,reviewed,uw,uw
+2015-04-02T17:53:01.300Z,44.0112,-129.3633,10,4,mb,,255,3.835,0.8,us,us200025mb,2015-06-16T01:00:23.040Z,"Off the coast of Oregon",earthquake,12.1,2,0.366,2,reviewed,us,us
