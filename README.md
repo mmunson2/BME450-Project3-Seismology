@@ -3,33 +3,35 @@
 #### 2/26/2020
 #### Professor Shima Abadi
 
-# Introduction
+# Introduction:
+
+
+# How I Did It:
 
 
 
+# Results:
 
-# Results
 
-
-## Earthquake Magnitude vs. Time
+## Earthquake Magnitude vs. Time:
 
 ![alt text](https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/EarthquakeMagnitudeVsTime.png "Magnitude_vs_time") 
 
 
 
 
-## Earthquake Locations and Magnitude
+## Earthquake Locations and Magnitude:
 
 ![alt text](https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/EarthquakeMap.png 
 "Earthquake Locations") 
 
 
-## Earthquake Locations and Magnitude in April 2015
+## Earthquake Locations and Magnitude in April 2015:
 
 ![alt text](https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/EarthquakeMap2015.png 
 "Earthquake Locations") 
 
-# Analysis
+# Analysis:
 
 ##### Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area?   
 
