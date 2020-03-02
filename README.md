@@ -85,6 +85,17 @@ Identify a divergent boundary and a transform boundary on the map you selected i
 ![alt text](https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/DiverganceBoundary.png "Gorda_Ridge_Locations") 
 
 
+#### Discussion:
+
+##### What kind of patterns in earthquake magnitude and location you observe over time along each boundary?
+
+1074 earthquakes occured in the Gorda Ridge divergence zone between 2010 and 2020. The magnitudes ranged from 2.5 to 6.8 and averaged 3.26. This is exactly the same range as the full data set and a slightly higher average. 
+
+The divergence zone has a much higher density of small magnitude earthquakes compared to medium and high intensity earthquakes over time. A vertical line is visible in early 2014 indicating a large earthquake that was followed by smaller aftershocks.
+
+On a map this region is represented by a line of earthquakes tracing the plate boundary.
+
+
 ### Transform Boundary - Blanco Fracture Zone
 
 #### Magnitude Vs. Time
@@ -95,8 +106,20 @@ Identify a divergent boundary and a transform boundary on the map you selected i
 
 ![alt text](https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/TransformBoundary.png "Blanco_Locations") 
 
+#### Discussion:
+
+##### What kind of patterns in earthquake magnitude and location you observe over time along each boundary?
+
+553 earthquakes occured in the Blanco Fracture Zone between 2010 and 2020. The magnitudes ranged from 2.5 to 6.3 and averaged 3.62. This is the same lower bound for range but a lessened maximum value compared to the main data set. The average is notably higher however indicating stronger earthquakes in this region. 
+
+Unlike the main data set and Gorda Region, the density of low-magnitude earthquakes in the Blanco Fracture Zone is roughly equivilant to the medium-magnitude earthquakes. This is also indicated by the higher average magnitude. 
+
+Similar to the Gorda Region, the Blanco Fracture Zone appears as a line of earthquakes tracing the plate boundary.
+
 
 # Conclusion
+
+
 
 
 
