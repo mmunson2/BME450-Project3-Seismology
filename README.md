@@ -71,6 +71,51 @@ These earthquakes can be attributed to the eruption of the Axial Seamount Volcan
 
 ## Part II:
 
+Identify a divergent boundary and a transform boundary on the map you selected in part I
+
+### Divergent Boundary - Gorda Ridge
+
+#### Magnitude Vs. Time
+
+![alt text](https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/MagnitudeVsTime_Gorda_Ridge.png "Gorda_Ridge_Magnitude_vs_time") 
+
+
+#### Earthquake Locations
+
+![alt text](https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/DiverganceBoundary.png "Gorda_Ridge_Locations") 
+
+
+### Transform Boundary - Blanco Fracture Zone
+
+#### Magnitude Vs. Time
+
+![alt text](https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/MagnitudeVsTime_Blanco_Fracture_Zone.png "Blanco_Magnitude_vs_time") 
+
+#### Earthquake Locations
+
+![alt text](https://github.com/mmunson2/BME450-Project3-Seismology/blob/master/Results/TransformBoundary.png "Blanco_Locations") 
+
+
+# Conclusion
+
+
+
+# References
+
+https://volcano.si.edu/volcano.cfm?vn=331021
+
+https://volcanoes.usgs.gov/observatories/cvo/cascade_volcanoes.html
+
+https://earthquake.usgs.gov/earthquakes/map/
+
+https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db
+
+https://www.openstreetmap.org/#map=5/43.386/-124.194
+
+Gulick, S., Meltzer, A., and S. Clarke (1998) Seismic structure of the southern Cascadia subduction zone and accretionary prism north of the Mendocino triple junction. Journal of Geophysical Research-Solid Earth, 103(B11).
+
+
+
 
 
 
