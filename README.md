@@ -119,8 +119,9 @@ Similar to the Gorda Region, the Blanco Fracture Zone appears as a line of earth
 
 # Conclusion
 
+My Part I data demonstrates the sheer number of earthquakes that occur in a ten year period. In a reasonably small region of the earth the count was over 3,200 earthquakes, which is much more than one would expect. The magnitude vs. time graph demonstrates that the vast majority of earthquakes have a magnitude of 4 or less which is explains why they are seldom noticed. When plotted on a map, the earthquakes trace the fault lines, and are especially noticeable along transform boundaries. The divergence zone on the western end of the Juan De Fuca Plate has a surprisingly small amount of earthquakes, with the exception of the April 2015 Axial Seamount eruption. The convergence boundary at the Cascadia Subduction Zone also lacks a defining line of earthquakes, but instead is visible in a scatter of inshore earthquakes. This is likely due to the Juan De Fuca plate traveling under the North American Plate and pushing magma upwards in the process. This cycle is responsible for the Northwest's famous volcanoes.
 
-
+In Part II a divergent and transform boundary are compared by analyzing the Gorda Ridge and Blanco Fracture Zone. While it's difficult to discern a clear pattern in the magnitude vs. time graph, the transform boundary had fewer, stronger earthquakes on average. In comparison, the divergence boundary had almost twice as many earthquakes, most of which were very small.
 
 
 # References
