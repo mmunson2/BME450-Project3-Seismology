@@ -134,10 +134,10 @@ A. Qassim, “Easy Steps To Plot Geographic Data on a Map — Python,” Towards
 
 Gulick, S., Meltzer, A., and S. Clarke (1998) Seismic structure of the southern Cascadia subduction zone and accretionary prism north of the Mendocino triple junction. Journal of Geophysical Research-Solid Earth, 103(B11).
 
-USGS Data:
+USGS Data:  
 https://earthquake.usgs.gov/earthquakes/map/
 
-Open Street Map:
+Open Street Map:  
 https://www.openstreetmap.org/#map=5/43.386/-124.194
 
 
