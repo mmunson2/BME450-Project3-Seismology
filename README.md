@@ -126,18 +126,19 @@ In Part II a divergent and transform boundary are compared by analyzing the Gord
 
 # References
 
-https://volcano.si.edu/volcano.cfm?vn=331021
+Global Volcanism Program, 2013. Volcanoes of the World, v. 4.8.6. Venzke, E (ed.). Smithsonian Institution. Downloaded 02 Mar 2020. https://doi.org/10.5479/si.GVP.VOTW4-2013
 
-https://volcanoes.usgs.gov/observatories/cvo/cascade_volcanoes.html
+“Why Study Cascade Volcanoes?,” Volcano Hazards Program, Mar. 2019.
 
-https://earthquake.usgs.gov/earthquakes/map/
-
-https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db
-
-https://www.openstreetmap.org/#map=5/43.386/-124.194
+A. Qassim, “Easy Steps To Plot Geographic Data on a Map — Python,” Towards Data Science, Aug. 2019.
 
 Gulick, S., Meltzer, A., and S. Clarke (1998) Seismic structure of the southern Cascadia subduction zone and accretionary prism north of the Mendocino triple junction. Journal of Geophysical Research-Solid Earth, 103(B11).
 
+USGS Data:
+https://earthquake.usgs.gov/earthquakes/map/
+
+Open Street Map:
+https://www.openstreetmap.org/#map=5/43.386/-124.194
 
 
 
